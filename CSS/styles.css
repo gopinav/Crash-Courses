@@ -1,10 +1,22 @@
 h1 {
   color: blue;
 }
-.red {
-  background-color: red;
+.orange {
+  background-color: orange;
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 4px;
+  word-spacing: 20px;
 }
 
 .yellow {
   background-color: yellow;
+}
+
+.font-styles {
+  font-family: Verdana;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 50px;
 }
