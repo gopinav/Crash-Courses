@@ -32,3 +32,15 @@ ul {
   padding: 20px;
   margin: 50px;
 }
+
+h3 {
+  color: red !important;
+}
+
+.sub-heading {
+  color: blue;
+}
+
+#title {
+  color: orange;
+}
