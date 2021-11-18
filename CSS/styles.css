@@ -24,3 +24,11 @@ h1 {
 ul {
   list-style-type: none;
 }
+
+.box-model {
+  border: 1px solid red;
+  height: 50px;
+  width: 300px;
+  padding: 20px;
+  margin: 50px;
+}
