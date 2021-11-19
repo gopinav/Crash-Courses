@@ -65,3 +65,13 @@ table {
 td {
   text-align: center;
 }
+
+.content-1 {
+  border: 1px solid red;
+  display: inline;
+}
+
+.content-2 {
+  border: 1px solid blue;
+  display: block;
+}
