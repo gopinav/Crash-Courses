@@ -75,3 +75,24 @@ td {
   border: 1px solid blue;
   display: block;
 }
+
+.position-1 {
+  border: 1px solid red;
+  position: sticky;
+  top: 50px;
+  left: 50px;
+}
+
+.position-2 {
+  border: 1px solid blue;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.container {
+  position: relative;
+  width: 200px;
+  height: 2000px;
+  border: 1px solid black;
+}
