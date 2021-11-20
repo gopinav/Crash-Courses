@@ -93,6 +93,21 @@ td {
 .container {
   position: relative;
   width: 200px;
-  height: 2000px;
+  height: 200px;
   border: 1px solid black;
+}
+
+.em-container {
+  font-size: 20px;
+  height: 2em;
+}
+
+.em {
+  font-size: 2em;
+}
+
+.rem {
+  font-size: 2rem;
+  border: 1px solid #333;
+  height: calc(50vh - 100px);
 }
