@@ -3,7 +3,6 @@ body {
 }
 .container {
   border: 6px solid black;
-  display: grid;
 }
 .grid-item {
   color: white;
