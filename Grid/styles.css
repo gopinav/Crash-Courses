@@ -3,7 +3,7 @@ body {
 }
 .container {
   border: 6px solid black;
-  display: flex;
+  display: grid;
 }
 .grid-item {
   color: white;
@@ -27,7 +27,7 @@ body {
   background-color: #6b0803;
 }
 .item-6 {
-  background-color: #1c4c56;
+  background-color: #cfb276;
 }
 .item-7 {
   background-color: #b95f21;
